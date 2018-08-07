@@ -1,1 +1,1 @@
-echo howdy
+echo 'how are you'
